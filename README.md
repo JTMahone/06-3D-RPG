@@ -1,13 +1,5 @@
-# Project Name
-Context and date
+# Godot-3D-Template
 
-Description
+Godot Template for 3D Games
 
-## Implementation
-Which features you included
-
-## References
-
-## Future Development
-
-## Created by
+Includes Keyboard mappings and Global.gd
