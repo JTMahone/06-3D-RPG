@@ -1,5 +1,18 @@
-# Godot-3D-Template
+# Project Name
+Target Remover
 
-Godot Template for 3D Games
+This is a game where the targets have taken up roost upon the pillars. This is unacceptable.
 
-Includes Keyboard mappings and Global.gd
+## Implementation
+ -Enjoy the models custom made in blender by Jack Mahoney: Pillar, Target, Sword
+ -Enjoy somehow hitting the target with your sword from halfway across the map.
+ -That is all
+
+## References
+
+copied from demonstration videos
+
+## Future Development
+nope 
+## Created by
+Jack Thomas Mahoney
